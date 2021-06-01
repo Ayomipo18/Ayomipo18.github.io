@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "Ayomipo Solaja",
   "license": "ISC",
-  "homepage": "https://Ayomipo18.github.io/Ayomipo18.github.io",
+  "homepage": "https://Ayomipo18.github.io",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
