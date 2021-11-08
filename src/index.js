@@ -1,6 +1,6 @@
 import initTilt from "./js/tilt";
 import initSr from "./js/sr";
-import resume from "./assets/resume.pdf";
+import resume from "./assets/Resume-main.pdf";
 
 import "./style/main.scss";
 
